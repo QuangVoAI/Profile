@@ -17,8 +17,7 @@ From: **1 September 2025 - To: 31 September 2025**
 ---
 
 ## 🏅 Badges and Certificates
-[![SQL Basic](https://img.shields.io/badge/SQL%20Basic-Verified-brightgreen?logo=sqlite&logoColor=white)
-![SQL Intermediate](https://img.shields.io/badge/SQL%20Intermediate-Verified-brightgreen?logo=database&logoColor=white)][(https://www.hackerrank.com/profile/vxq123)]
+[![Java Badge](https://img.shields.io/badge/Java%20Badge-HackerRank-orange?logo=java&logoColor=white)](https://www.hackerrank.com/profile/vxq123)
 
 ---
 
