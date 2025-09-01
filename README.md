@@ -6,7 +6,7 @@
 
 | 🎧 Now Playing | 📫 How to reach me |
 |----------------|---------------------|
-| [![Spotify](https://novatorem-yourname.vercel.app/api/spotify)](https://open.spotify.com/user/31dw2orb32kyydpudl2bqh2laejy?si=6cef3427ab4d4074) | [![Discord Presence](https://lanyard.cnrad.dev/api/your_discord_id)](https://discord.com/users/your_discord_id) |
+| [![Spotify](https://novatorem-yourname.vercel.app/api/spotify)](https://open.spotify.com/user/31dw2orb32kyydpudl2bqh2laejy?si=6cef3427ab4d4074) | [![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/YOUR_DISCORD_ID) |
 
 
 ---
