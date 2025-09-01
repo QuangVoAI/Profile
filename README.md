@@ -17,7 +17,8 @@ From: **1 September 2025 - To: 31 September 2025**
 ---
 
 ## 🏅 Badges and Certificates
-[![Java Badge](https://img.shields.io/badge/Java%20Badge-HackerRank-orange?logo=java&logoColor=white)](https://www.hackerrank.com/profile/vxq123)
+[![Java](https://img.shields.io/badge/HackerRank-Java_Badge-orange?logo=java&logoColor=white)](https://www.hackerrank.com/profile/vxq123)
+
 
 ---
 
