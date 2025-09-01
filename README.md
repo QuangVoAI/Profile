@@ -17,7 +17,8 @@ From: **1 September 2025 - To: 31 September 2025**
 ---
 
 ## 🏅 Badges and Certificates
-*(có thể thêm badge từ [shields.io](https://shields.io/))*
+![SQL Basic](https://img.shields.io/badge/SQL%20Basic-Verified-brightgreen?logo=sqlite&logoColor=white)
+![SQL Intermediate](https://img.shields.io/badge/SQL%20Intermediate-Verified-brightgreen?logo=database&logoColor=white)
 
 ---
 
