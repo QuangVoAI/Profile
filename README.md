@@ -4,9 +4,10 @@
 
 ---
 
-### 🎧 Spotify Playing / 📫 How to reach me
-[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31dw2orb32kyydpudl2bqh2laejy?si=6cef3427ab4d4074)
-[![Discord](https://img.shields.io/badge/Discord-springwang__08-5865F2?logo=discord&logoColor=white)](#)
+| 🎧 Now Playing | 📫 How to reach me |
+|----------------|---------------------|
+| [![Spotify](https://novatorem-yourname.vercel.app/api/spotify)](https://open.spotify.com/user/31dw2orb32kyydpudl2bqh2laejy?si=6cef3427ab4d4074) | [![Discord Presence](https://lanyard.cnrad.dev/api/your_discord_id)](https://discord.com/users/your_discord_id) |
+
 
 ---
 
